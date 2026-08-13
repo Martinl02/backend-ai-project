@@ -1,3 +1,1 @@
-a
-b
-c
+print("Proyecto Backend + IA")
